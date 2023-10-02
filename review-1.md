@@ -27,10 +27,15 @@ Visión General: Proporciona una visión general clara de las tareas pendientes 
 
 Acceso en Cualquier Momento y Lugar: Al ser una aplicación web, los usuarios pueden acceder a "EasyTask Manager" desde cualquier dispositivo con conexión a internet.
 
+
 Tecnologías Utilizadas:
 
 Node.js: Para el servidor backend.
+
 Express.js: Para crear la API RESTful.
+
 MongoDB: Para la base de datos.
+
 HTML/CSS/JavaScript: Para el frontend de la aplicación web.
+
 WebSockets: Para la colaboración en tiempo real.
